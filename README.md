@@ -21,21 +21,19 @@
 #### job02_data_concat.ipynb
 
 ### 학습 (Word2vec)
-![image](https://user-images.githubusercontent.com/96555334/174037181-66b9b960-0397-4028-9142-f25aaa546f81.png)
+![image](https://user-images.githubusercontent.com/96555334/174037604-3f9e4f54-3c03-4a7b-a095-dbca0f7f0eeb.png)
 #### job04_ML.py
 
 ### 테스트 
-![image](https://user-images.githubusercontent.com/96555334/174037383-22f7f55a-4f1d-4afc-b818-3a1e54649880.png)
+![image](https://user-images.githubusercontent.com/96555334/174037575-f5ade6a5-d76d-489c-8c14-80c7773cffff.png)
 #### job05_predict.py
 
 ### 서비스
-![image](https://user-images.githubusercontent.com/96555334/174035907-5a3e7ae7-bd5d-43ad-a13e-dd1d7f2ef3dd.png)
-<br>
-![image](https://user-images.githubusercontent.com/96555334/174036052-5fd50d28-61bc-4f40-a461-52eb0d8ca84a.png)
-##### manage.py
+![image](https://user-images.githubusercontent.com/96555334/174037726-5f241b16-8cf2-4416-b8e4-911226e5c460.png)
+##### job06_gui.py
 
 ### 시연영상
-#### https://www.youtube.com/watch?time_continue=9&v=RgsWDvX1STk&feature=emb_logo
+#### [https://www.youtube.com/watch?time_continue=9&v=RgsWDvX1STk&feature=emb_logo](https://www.youtube.com/watch?v=jeNLmLyY-2U&t=2s)
 
 
 
